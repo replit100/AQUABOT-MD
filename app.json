@@ -9,26 +9,26 @@
     "stack": "container",
      "env": {
             "AQUA_SESSION": {
-            "description": "",
+            "description": "AQUA=40wjFYaR#iGZZoddqCfvmPP2NJ7zp8jmEno6Il9TFTmdZe5NVT5Q",
             "required": true
              },
             "NO_ONLINE": {
-            "description": "",
+            "description": "false",
             "required": true,
              "value": "false"    
              },
             "ANTI_BOT": {
-            "description": "",
+            "description": "true",
             "value": "false" ,    
             "required": true
              },
             "ANTI_SPAM": {
-            "description": "",
+            "description": "true",
             "value": "true" ,    
             "required": true
              },
             "ONLY_GROUP": {
-            "description": "",
+            "description": "false",
             "value": "false" ,    
             "required": true
              },
@@ -38,17 +38,17 @@
              },
             "OWN_NAME": {
             "description": "",
-            "value": "your name" ,
+            "value": "💕‍🌀卐🅱️🅾️✝️卐● _CHAMEE_ ●💕" ,
             "required": true
              },
              "OWN_NUMBER": {
             "description": "",
-            "value": "94xxxxxxxxx" ,
+            "value": "94770111311" ,
             "required": true
              },
        
             "AUTO_REACT": {
-            "description": "",
+            "description": "true",
             "value": "false" ,
             "required": true
              },
@@ -79,7 +79,7 @@
             "required": true
       },
      "ANTI_LINK": {
-            "description": "",
+            "description": "false",
             "value": "false" ,
             "required": true
       },
@@ -89,7 +89,7 @@
             "required": true
       },
        "INBOX_BLOCK": {
-            "description": "",
+            "description": "false",
             "value": "false" ,
             "required": true
       },
